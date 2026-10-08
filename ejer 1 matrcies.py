@@ -1,5 +1,5 @@
 matriz = []
-def cargar_matriz():
+def cargar_matriz()
     global matriz
     filas = int(input("filas: "))
     columnas = int(input("columnas: "))
